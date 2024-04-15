@@ -1,0 +1,60 @@
+#content{
+	width: 888px;
+    margin: auto;
+    background-color: rgb(255, 248, 188);
+    border: 2px forestgreen solid;
+}
+#imageright{
+    float: right;
+    margin-left: 20px;
+    border: 2px forestgreen solid;
+    margin-right: 20px;
+    background-color: rgb(255, 192, 97);
+    border-radius: 25px;
+}
+#imageleft{
+    float: left;
+    margin-right: 40px;
+    margin-bottom: 80px;
+    width: 300px;
+    border: 2px forestgreen solid;
+    background-color: rgb(255, 194, 103);
+    border-radius: 25px;
+    margin-left: 40px;
+}
+#balkep{
+    width: 300px;
+    border-radius: 25px 25px 0px 0px;
+}
+#jobbkep{
+    width: 300px;
+    border-radius: 25px 25px 0px 0px;
+}
+.kepszoveg{
+	text-align: center;
+    font-style: italic;
+    font-weight: bold;
+}
+h1{
+    text-transform: uppercase;
+    color: forestgreen;
+    margin-left: 25px;
+}
+h2{
+    text-transform: uppercase;
+    color: forestgreen;
+    margin-left: 25px;
+}
+li{
+    text-align: justify;
+}
+a:hover{
+    color: red;
+}
+p{
+    text-align: justify;
+    margin-left: 25px;
+}
+ol{
+    margin-left: 25px;
+}
